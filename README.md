@@ -31,7 +31,7 @@
   `Dwicki Herlambang-231031113-tugas-1-D.py`
 
 * Tugas 2: Ganjil-Genap
-  `Dwicki Herkambang-231031113-Tugas Kelas D No 1.py
+  `Dwicki Herkambang-231031113-Tugas Kelas D No 1.py`
   
 * Tugas 3: Jam
   `Dwicki Herlambang-Tugas Kelas D no 2.py`
