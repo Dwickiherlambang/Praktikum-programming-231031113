@@ -18,8 +18,8 @@
 * Praktikum 5 : Perulangan
   `praktikumm-d5.py`
 
-* Praktikum 6 : Operator Logika
-  `praktikumm-d2.py`
+* Praktikum 6 : While True
+  `praktikumm-d6.py`
 
 * Praktikum 7 : Operator Logika
   `praktikumm-d2.py`
