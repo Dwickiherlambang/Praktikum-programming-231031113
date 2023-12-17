@@ -21,11 +21,11 @@
 * Praktikum 6 : While True
   `praktikumm-d6.py`
 
-* Praktikum 7 : Operator Logika
-  `praktikumm-d2.py`
+* Praktikum 7 : Membuat Password
+  `praktikumm-d7.py`
 
-* Praktikum 8 : Operator Logika
-  `praktikumm-d2.py`
+* Praktikum 8 : Password Berlapis
+  `praktikumm-d8.py`
 
 * Praktikum 2 : Operator Logika
   `praktikumm-d2.py`
